@@ -1,0 +1,5 @@
+{
+  "name": "CalcFlow",
+  "description": "A comprehensive, glassmorphic utility suite featuring standard calculations, finance tools, investment projections, unit conversion, health metrics, and an AI-powered math assistant using Gemini.",
+  "requestFramePermissions": []
+}
